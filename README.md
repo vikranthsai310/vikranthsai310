@@ -249,43 +249,162 @@ const vikranth = {
 
 <div align="center">
 
-## 🌐 Find Me Everywhere (I'm Basically Everywhere Except Outside)
+## 🌐 Wanna Stalk Me? Here Are The Links, You Creep 😏
 
-<a href="https://github.com/vikranthsai310"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a>
-<a href="https://linkedin.com/in/vikranthsai310"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/vikranthsai310"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:vikranthsai310@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- DRAMATIC ENTRANCE GIF -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250">
 
 <br><br>
 
+> ⚠️ **WARNING:** Clicking these links means you agree to laugh at my repos and pretend my code is good.
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://github.com/vikranthsai310">
+<img src="https://img.shields.io/badge/🐙_GitHub-Come_see_my_bugs-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br>
+<sub><sup>where my mass mass mass mass code lives</sup></sub>
+</td>
+<td align="center">
+<a href="https://linkedin.com/in/vikranthsai310">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Pretending_to_be_professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br>
+<sub><sup>"open to mass mass mass mass opportunities"</sup></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://twitter.com/vikranthsai310">
+<img src="https://img.shields.io/badge/🐦_Twitter-Hot_Takes_&_Cold_Code-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<br>
+<sub><sup>where I mass mass mass tweet my bugs into the void</sup></sub>
+</td>
+<td align="center">
+<a href="mailto:vikranthsai310@gmail.com">
+<img src="https://img.shields.io/badge/📧_Gmail-Send_me_mass_memes-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br>
+<sub><sup>recruiters & meme dealers only plz</sup></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://instagram.com/vikranthsai310">
+<img src="https://img.shields.io/badge/📸_Instagram-My_desk_setup_&_debug_tears-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<br>
+<sub><sup>99% code screenshots, 1% food</sup></sub>
+</td>
+<td align="center">
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/🎮_Discord-Gaming_instead_of_coding-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<br>
+<sub><sup>"brb deploying" *plays games for 5 hours*</sup></sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- SOCIAL MEDIA PERSONALITY MEME -->
+<details>
+<summary>🎭 Click to see my social media personality chart</summary>
+<br>
+
+```
+My Social Media Personality:
+                                                    
+GitHub:     🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻  "Clean code enthusiast"
+LinkedIn:   🤵🤵🤵🤵🤵🤵🤵🤵🤵🤵  "Passionate thought leader"
+Twitter:    🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡  "i mass mass mass mass mass mass mass mass mass mass mass mass mass debug"
+Instagram:  📸📸📸📸📸📸📸📸📸📸  "Aesthetic terminal screenshots"
+Discord:    🎮🎮🎮🎮🎮🎮🎮🎮🎮🎮  "Can't code rn, in ranked"
+Gmail:      💀💀💀💀💀💀💀💀💀💀  "17,432 unread emails"
+Real Life:  🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔  *potato on a couch*
+```
+
+</details>
+
+<br>
+
+<!-- FUNNY REACTION GIFS -->
+<table>
+<tr>
+<td align="center">
+<b>Me reading my DMs</b><br>
+<img src="https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif" width="180">
+</td>
+<td align="center">
+<b>Me replying to emails</b><br>
+<img src="https://media.giphy.com/media/LRVnPYqM8DLag/giphy.gif" width="180">
+</td>
+<td align="center">
+<b>Me on LinkedIn</b><br>
+<img src="https://media.giphy.com/media/DHqth0hVQoIzS/giphy.gif" width="180">
+</td>
+</tr>
+</table>
+
+<br>
+
 <!-- ANIMATED VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=vikranthsai310&style=for-the-badge&color=FF6EC7&label=PROFILE+STALKERS" />
+<img src="https://komarev.com/ghpvc/?username=vikranthsai310&style=for-the-badge&color=FF6EC7&label=PROFILE+STALKERS+👀" />
+
+<br><br>
+
+<!-- MEME: This is fine -->
+<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="250">
 
 <br>
 
-<!-- ANIMATED MEME -->
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200">
+### 🚨 ATTENTION: You've scrolled this far. There's no going back. 🚨
 
 <br>
 
-### ⭐ If you've read this far, you legally owe me a star ⭐
+```
+                    🏆 CONGRATULATIONS! 🏆
+    ┌─────────────────────────────────────────────┐
+    │                                             │
+    │   You've reached the bottom of my README!   │
+    │                                             │
+    │   Your reward:                              │
+    │                                             │
+    │   ⭐ Star this repo                         │
+    │   👀 Follow me                              │
+    │   🍕 Send pizza                             │
+    │   💰 Venmo me mass mass mass $$              │
+    │                                             │
+    │   (just kidding about the last two)         │
+    │   (or am I? 👀)                             │
+    │                                             │
+    └─────────────────────────────────────────────┘
+```
 
 <br>
 
 <!-- ANIMATED JOKE -->
 <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=%23FF6EC7&aColor=%23F8D866" alt="Jokes Card" width="500" />
 
+<br>
+
+<!-- ANOTHER JOKE API -->
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%2300BFFF&aColor=%23FFD700" alt="Jokes Card 2" width="500" />
+
 <br><br>
 
-```
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠉⠙⠻⣿⣿⣿⣿⠿⠛⠉⠉⠙⠻⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⠁  STAR ⠈⣿⣿⣿⠁  THIS  ⠈⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣇   ⬇️   ⣸⣿⣿⣇  REPO  ⣸⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣦⣤⣤⣴⣿⣿⣿⣿⣿⣦⣤⣤⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-```
+<!-- FINAL MEME -->
+<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" width="300">
+
+<br>
+
+*"I came, I saw, I mass mass mass mass mass mass mass mass mass debugged"* — Vikranth, probably
 
 </div>
 
