@@ -13,7 +13,7 @@
 <br>
 
 <!-- ANIMATED TYPING SVG - NOW WITH MORE CHAOS -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=FF6EC7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=140&lines=%F0%9F%91%8B+Yo!+I'm+Vikranth+Sai+%26+I'm+BUILT+DIFFERENT+%F0%9F%92%AA;%F0%9F%A7%A0+IQ+so+high+my+code+can't+keep+up;%F0%9F%90%9B+I+don't+create+bugs%2C+I+create+SURPRISE+FEATURES;%F0%9F%94%A5+My+brain+has+too+many+tabs+open;%F0%9F%8E%AF+I+mass+mass+mass+mass+mass+debug+at+3AM;%F0%9F%92%80+Sleep+is+just+a+myth+invented+by+mattress+companies;%F0%9F%A4%AF+I+mass+mass+mass+mass+mass+mass+mass+THINK+THEREFORE+I+BUG" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6EC7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=%F0%9F%91%8B+Yo!+I'm+Vikranth+Sai+%26+I'm+BUILT+DIFFERENT+%F0%9F%92%AA;%F0%9F%A7%A0+IQ+so+high+my+code+can't+keep+up;%F0%9F%90%9B+I+don't+create+bugs%2C+I+create+SURPRISE+FEATURES;%F0%9F%94%A5+My+brain+has+too+many+tabs+open;%F0%9F%8E%AF+I+debug+at+3AM+like+a+mass+legend;%F0%9F%92%80+Sleep+is+a+myth+by+mattress+companies;%F0%9F%A4%AF+I+THINK+THEREFORE+I+BUG" alt="Typing SVG" /></a>
 
 </div>
 
